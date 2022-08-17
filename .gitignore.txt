@@ -1,0 +1,5 @@
+/dashboard/build
+/dashboard/vendor
+/dashboard/bower_components
+/images
+/uploads
